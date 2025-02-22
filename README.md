@@ -4,4 +4,3 @@
  ### Currently Doing 
 2. - #### To apply filtering in R to find the most important features among present.
    - 2.1 Added Binary Class filtered data
-   - 2.2 Added Multi Class filtered data
