@@ -28,7 +28,7 @@
 
 
 
-<!-- PROJECT LOGO -->
+<!-- PROJECT LOGO 
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
@@ -49,7 +49,7 @@
     &middot;
     <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
-</div>
+</div> -->
 
 
 
@@ -94,7 +94,7 @@ Attack Detection via network behavior in IOT devices, thise model will help, pre
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+<!-- This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 * [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
@@ -105,27 +105,28 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+Will be added Later
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+Will be added Later
+<!-- This is an example of how to list things you need to use the software and how to install them.
 * npm
   ```sh
   npm install npm@latest -g
-  ```
+  ``` -->
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+Will be added Later
+<!-- _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
@@ -146,23 +147,23 @@ _Below is an example of how you can instruct your audience on installing and set
    git remote -v # confirm the changes
    ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 
 
-<!-- USAGE EXAMPLES 
+USAGE EXAMPLES 
 ## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+Will be added Later
+<!-- Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>  -->
 
-<!-- ROADMAP 
+ ROADMAP 
 ## Roadmap
-
-- [x] Made 12 CSV files from 3  Optimization Algorithms each
+Will be added later
+<!-- - [x] Made 12 CSV files from 3  Optimization Algorithms each
 - [x] Added Binary filtered data for multi and binary classes
 
 
@@ -172,10 +173,10 @@ See the [open issues](https://github.com/othneildrew/Best-README-Template/issues
 
 
 
-<!-- CONTRIBUTING 
+ CONTRIBUTING 
 ## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Will be added later
+<!-- Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
 Don't forget to give the project a star! Thanks again!
@@ -210,7 +211,7 @@ Distributed under the Unlicense License. See `LICENSE.txt` for more information.
 
 Arnav Mohan -  - arnavmohan45678@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name]([https://github.com/your_username/repo_name](https://github.com/ArnavMohan65/ProjectRepo))
+Project Link: [https://github.com/ArnavMohan65/ProjectRepo]([https://github.com/your_username/repo_name](https://github.com/ArnavMohan65/ProjectRepo))
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
