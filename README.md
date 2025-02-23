@@ -163,7 +163,8 @@ _For more examples, please refer to the [Documentation](https://example.com)_
  ROADMAP 
 ## Roadmap
 Will be added later
- [x] Made 12 CSV files from 3  Optimization Algorithms each
+
+- [x] Made 12 CSV files from 3  Optimization Algorithms each
 - [x] Added Binary filtered data for multi and binary classes
 
 
