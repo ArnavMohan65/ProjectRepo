@@ -80,6 +80,33 @@
 </details>
 
 
+```plaintext
+.
+|-- README.md
+`-- dataset
+    |-- farmSelected
+    |   |-- Gravitation_Farmselected_data_Bi.csv
+    |   |-- Gravitation_Farmselected_data_Multi.csv
+    |   |-- Harris_Farm_selected_data_Bi.csv
+    |   |-- Harris_Farm_selected_data_Multi.csv
+    |   |-- PSO_farm_features_Bi.csv
+    |   `-- PSO_farm_features_Multi.csv
+    |-- featureSelected
+    |   |-- Binary
+    |   |   |-- Gravitation_data_features_BI.csv
+    |   |   |-- Harris_data_features_BI.csv
+    |   |   `-- PSO_data_features_BI.csv
+    |   `-- multiClass
+    |       |-- Gravitation_data_features_MULTI.csv
+    |       |-- Harris_data_features_MULTI.csv
+    |       `-- PSO_data_features_MULTI.csv
+    `-- filteredFlevrBi
+        |-- Gravitation_selected_features_flevr.csv
+        |-- Harris_selected_features_flevr.csv
+        `-- PSO_BI_selected_features_flevr.csv
+```
+
+
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -233,7 +260,6 @@ Use this space to list resources you find helpful and would like to give credit 
 * [React Icons](https://react-icons.github.io/react-icons/search)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>  -->
-
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
