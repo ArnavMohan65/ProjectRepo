@@ -212,7 +212,7 @@ Distributed under the Unlicense License. See `LICENSE.txt` for more information.
 
 Arnav Mohan -  - arnavmohan45678@gmail.com
 
-Project Link: [https://github.com/ArnavMohan65/ProjectRepo]([https://github.com/your_username/repo_name](https://github.com/ArnavMohan65/ProjectRepo))
+Project Link: [https://github.com/ArnavMohan65/ProjectRepo]([https://github.com/ArnavMohan65/ProjectRepo))
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
